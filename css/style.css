@@ -1,0 +1,180 @@
+/*my Information */
+.studentInformation ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 40px;
+  overflow: hidden;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.studentInformation li  
+{
+    display: inline-block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/*my drivers gallery using css w3schools.com */
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 180px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+   text-align: center;
+    
+  }
+  
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+  /*my footer */ 
+  
+.footer-copyright
+{
+    background-color: black;
+    color: white;
+}
+
+.page-footer 
+{
+    background-color: red;
+  
+}
+
+.input-group .btn 
+{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.form-inline .fas 
+{
+    color: white;
+}
+
+/*my header */
+
+.menuBar ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  border-radius: 5px;
+
+}
+
+.menuBar li 
+{
+    float:left
+}
+
+.menuBar li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menuBar li a:hover
+{
+    background-color: red;
+}
+
+.FormulaOne ul
+{
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+
+
+}
+
+.FormulaOne li
+{
+    display: inline-block;
+}
+
+.podium img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 30px;
+}
+
+/*my drodownlist page with the array */
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+ }
+ 
+ p {
+    text-align: center;
+    font-weight: bold;
+ }
+ 
+ .myForm {
+    text-align: center;
+    
+    
+ }
+ 
+ .mainPage img 
+ {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+    
+ }
+
+ /*my table */
+
+ .scheduleTable, .scheduleTitle, .arrayTable {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .scheduleTitle
+  {
+      background-color: black;
+      color: white;
+  }
+  
+  .scheduleTable
+  {
+      margin: 20px;
+      margin-left: auto;
+      margin-right: auto;
+  }
